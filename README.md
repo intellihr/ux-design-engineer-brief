@@ -5,6 +5,8 @@ As part of the recruitment process at intelliHR, we ask UX Design Engineers to p
 
 This can be a style update or a reworking of a user journey, and can be specific to any device, application or even a demographic of user.
 
+We welcome enthusiastic opinions on emerging UX trends!
+
 ## Examples:
 - Document an irritating checkout process and present a better workflow.
 - Redesign (or create) a discovery interface in a data-intensive application whose search/filter features are lacking
