@@ -1,6 +1,6 @@
 # intelliHR UX Design Candidate Brief
 
-![UX journey wireframes](https://images.unsplash.com/photo-1573868396123-ef72a7f7b94f)
+![UX journey wireframes](banner.jpg)
 As part of the recruitment process at intelliHR, we ask UX Design Engineers to present an analysis and redesign of an existing workflow or pattern that they believe should be improved.
 
 This can be a style update or a reworking of a user journey, and can be specific to any device, application or even a demographic of user.
