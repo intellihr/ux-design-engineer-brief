@@ -17,4 +17,4 @@ Please submit (via email) an artefact that clearly outlines the identified issue
 
 The fidelity of this solution can be high resolution, or just wireframes - as long as the problem and solution can be understood without explanation.
 
-We will ask you to present this solution during the formal interview, and will have questions prepared.
+We will ask you to present (~10mins) this solution during the formal interview, and will have questions prepared.
